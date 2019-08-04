@@ -130,7 +130,7 @@ def set_users_page(id, message):
         pass
 
     try:
-        os.mknod(filename)
+        open(filename, 'w+')
     except FileExistsError:
         pass
 
