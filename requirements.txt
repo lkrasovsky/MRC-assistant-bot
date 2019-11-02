@@ -1,4 +1,4 @@
-Pillow==6.0.0
+Pillow==6.2.0
 PyPDF2==1.26.0
 beautifulsoup4==4.7.1
 constants==0.6.0
